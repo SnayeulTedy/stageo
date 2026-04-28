@@ -9,17 +9,17 @@
 <body>
 
     <header>
-        <div class="logo"><a href="../index.html">Stageo</a></div>
+        <div class="logo"><a href="../index.php">Stageo</a></div>
         <nav class="menu-desktop">
-            <a href="../index.html">Accueil</a>
-            <a href="offres.html">Offres</a>
-            <a href="application_form.html">Postuler</a>
+            <a href="../index.php">Accueil</a>
+            <a href="offres.php">Offres</a>
+            <a href="application_form.php">Postuler</a>
         </nav>
         <button class="burger" id="burger" aria-label="Menu">☰</button>
         <nav class="menu-mobile" id="menuMobile">
-            <a href="../index.html">Accueil</a>
-            <a href="offres.html">Offres</a>
-            <a href="application_form.html">Postuler</a>
+            <a href="../index.php">Accueil</a>
+            <a href="offres.php">Offres</a>
+            <a href="application_form.php">Postuler</a>
         </nav>
     </header>
 
@@ -95,7 +95,7 @@
     <footer>
         <p>&copy; 2026 Stageo</p>
         <div class="footer-links">
-            <a href="legal_mentions.html">Mentions légales</a>
+            <a href="legal_mentions.php">Mentions légales</a>
         </div>
     </footer>
 

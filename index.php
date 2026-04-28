@@ -9,17 +9,17 @@
 <body>
 
     <header>
-        <div class="logo"><a href="index.html">Stageo</a></div>
+        <div class="logo"><a href="index.php">Stageo</a></div>
         <nav class="menu-desktop">
-            <a href="index.html">Accueil</a>
-            <a href="html/offres.html">Offres</a>
-            <a href="html/application_form.html">Postuler</a>
+            <a href="index.php">Accueil</a>
+            <a href="pages/offres.php">Offres</a>
+            <a href="pages/application_form.php">Postuler</a>
         </nav>
         <button class="burger" id="burger" aria-label="Menu">☰</button>
         <nav class="menu-mobile" id="menuMobile">
-            <a href="index.html">Accueil</a>
-            <a href="html/offres.html">Offres</a>
-            <a href="html/application_form.html">Postuler</a>
+            <a href="index.php">Accueil</a>
+            <a href="pages/offres.php">Offres</a>
+            <a href="pages/application_form.php">Postuler</a>
         </nav>
     </header>
 
@@ -28,7 +28,7 @@
             <h1>Trouvez votre stage ou alternance idéale</h1>
             <p>Des centaines d'opportunités dans tous les secteurs.<br>
                Développez vos compétences et lancez votre carrière avec Stageo.</p>
-            <a href="html/offres.html" class="btn">Découvrir les offres</a>
+            <a href="pages/offres.php" class="btn">Découvrir les offres</a>
         </section>
 
         <section>
@@ -53,7 +53,7 @@
     <footer>
         <p>&copy; 2026 Stageo</p>
         <div class="footer-links">
-            <a href="html/legal_mentions.html">Mentions légales</a>
+            <a href="pages/legal_mentions.php">Mentions légales</a>
         </div>
     </footer>
 
