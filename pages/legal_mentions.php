@@ -3,23 +3,27 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mentions Légales - Stageo</title>
+    <title>Mentions Légales - Stagiel</title>
     <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
 
     <header>
-        <div class="logo"><a href="../index.php">Stageo</a></div>
+        <div class="logo"><a href="../index.php">Stagiel</a></div>
         <nav class="menu-desktop">
             <a href="../index.php">Accueil</a>
             <a href="offres.php">Offres</a>
             <a href="application_form.php">Postuler</a>
+            <a href="entreprise.php">Entreprises</a>
+            <a href="candidature.php">Candidatures</a>
         </nav>
         <button class="burger" id="burger" aria-label="Menu">☰</button>
         <nav class="menu-mobile" id="menuMobile">
             <a href="../index.php">Accueil</a>
             <a href="offres.php">Offres</a>
             <a href="application_form.php">Postuler</a>
+            <a href="entreprise.php">Entreprises</a>
+            <a href="candidature.php">Candidatures</a>
         </nav>
     </header>
 
@@ -29,10 +33,10 @@
         <section>
             <h2>1. Informations sur l'éditeur</h2>
             <p>
-                <strong>Stageo</strong> – Site de gestion des stage et alternances<br>
+                <strong>Stagiel</strong> – Site de gestion des stage et alternances<br>
                 Siège social : 123 Avenue de la Formation, 75000 Paris<br>
                 Téléphone : 01 23 45 67 89<br>
-                Email : contact@stageo.fr<br><br>
+                Email : contact@stagiel.fr<br><br>
                 Directeur de la production : Tedy TAJOU
             </p>
         </section>
@@ -75,7 +79,7 @@
             <p>
                 Les données collectées via le formulaire de candidature sont traitées dans le cadre de la gestion des candidatures.<br><br>
                 Conformément au RGPD, vous disposez des droits d’accès, de rectification, d’opposition et de suppression de vos données personnelles.<br>
-                Pour exercer ces droits, contactez-nous à : <strong>rgpd@stageo.fr</strong>
+                Pour exercer ces droits, contactez-nous à : <strong>rgpd@stagiel.fr</strong>
             </p>
         </section>
 
@@ -93,7 +97,7 @@
     </main>
 
     <footer>
-        <p>&copy; 2026 Stageo</p>
+        <p>&copy; 2026 Stagiel</p>
         <div class="footer-links">
             <a href="legal_mentions.php">Mentions légales</a>
         </div>
